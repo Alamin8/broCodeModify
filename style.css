@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-family: arial;
+    background-color: hotpink;
+}
+
+.food-item {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.food-item img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.food-item h4 {
+    font-size: 18px;
+    text-transform: capitalize;
+    text-align: center;
+    color: #fff;
+}
+
+.show-details {    
+    margin: 50px auto;
+    background-color: #eee;
+    padding: 40px;
+    width: 50%;
+    border-radius: 50px;
+}
+
+.show-details img {
+    width: 100%;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.food-bank h1 {
+    font-size: 50px;    
+}
+
+.highlight {
+    font-style: italic;
+    font-size: 80px;
+}
